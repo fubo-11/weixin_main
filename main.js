@@ -5,7 +5,7 @@ const schedule = require('node-schedule')
 //
 const appid = 'wx6a63ed12174a4c03'
 const secret = '7fec0878a03b53999ab407f7f2a39920'
-const touser = 'oGPbY6Mm7YG6wEbULkFqIS8S-GeI'
+const touser = 'oGPbY6Dts2lQ32KC0vNpcbPd29I4'
 const template_id = 'FJmt5wGTX-apr-Oqv8R3uizE8sPNffnGm_OY6VOENbQ'
 //
 const Local = 'hunan/changsha'
